@@ -12,6 +12,7 @@
 Alguns exercícios foram iniciados enquanto outros será codado do zero.
 Ou seja, tem somente o enunciado.
 
->Code. A lot… The best way to be a great coder is to just practice — a >lot. — Gayle Laakmann McDowell
+>Code. A lot… The best way to be a great coder is to just practice — a 
+>lot. — Gayle Laakmann McDowell
 
 Documentação oficial de referência: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
