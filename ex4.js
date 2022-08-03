@@ -1,0 +1,1 @@
+// Faça um código em js que vá para concatenar duas strings, exceto o primeiro caractere
